@@ -2,7 +2,7 @@
 
 [GitHub SSH Key Setup Guide for Windows (Bash)](#github-ssh-key-setup-guide-for-windows-bash)
 
-[Push Local Git Repository to Github](push-local-git-repository-to-github)
+[Push Local Git Repository to Github](#push-local-git-repository-to-github)
 
 # GitHub SSH Key Setup Guide for Linux
 
