@@ -1,0 +1,11 @@
+Installing HiddenEye in Python Virtual Environment - Kali Linux 2025 (May 2025)
+
+git clone https://github.com/Morsmalleo/HiddenEye.git 
+cd HiddenEye
+
+python3 -m venv venv
+source venv/bin/activate
+
+pip3 install setuptools pgrep requests pyngrok 
+
+python3 HiddenEye.py
