@@ -2,6 +2,7 @@
 
 ## 1. Clone the HiddenEye repository
 git clone https://github.com/Morsmalleo/HiddenEye.git 
+
 cd HiddenEye
 
 ## 2. Create and activate a virtual Python environment
