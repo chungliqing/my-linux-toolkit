@@ -46,7 +46,7 @@ ssh-keygen
 cat ~/.ssh/id_ed25519.pub
 ```
 
-\4. Add the new Public Key to GitHub Account
+\# 4. Add the new Public Key to GitHub Account
 - Go to GitHub > Settings > SSH and GPG keys
 - Click "New SSH key"
 - Give it a descriptive title (e.g., "Kali Laptop" or "Main Dev Machine")
