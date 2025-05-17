@@ -1,5 +1,6 @@
 # Installing HiddenEye in Python Virtual Environment - Kali Linux 2025
 
+```bash
 ## 1. Clone the HiddenEye repository
 git clone https://github.com/Morsmalleo/HiddenEye.git 
 
